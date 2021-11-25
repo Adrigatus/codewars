@@ -1,3 +1,4 @@
+//Из первого массива убираем элементы второго
 function arrayDiff(a, b) {
   return a.filter(el => !b.includes(el));
 }

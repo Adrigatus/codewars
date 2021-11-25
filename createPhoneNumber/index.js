@@ -1,3 +1,4 @@
+//Приводим массив к телефонному формату!
 function createPhoneNumber(numbers){
     let first = numbers.slice(0, 3);
     let second = numbers.slice(3, 6);
