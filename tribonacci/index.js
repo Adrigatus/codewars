@@ -10,5 +10,5 @@ function tribonacci(signature,n){
     }
     return tribonacciArr;
 }
-
-console.log(tribonacci([1,1,1],10));
+    
+tribonacci([1,1,1],10);
